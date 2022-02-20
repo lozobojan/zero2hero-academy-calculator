@@ -1,0 +1,22 @@
+#rezultatDiv{
+    text-align: center;
+    margin-top: 150px;
+}
+
+input{
+    width: 30%;
+    height: 75px;
+    text-align: center;
+    font-size: 36px;
+}
+select{
+    width: 30%;
+    height: 75px;
+    text-align: center;
+    font-size: 36px;
+}
+
+.centralno{
+    margin-top: 100px;
+    text-align: center;
+}
